@@ -1,0 +1,5 @@
+2019-02-19 17:33:10 CreateContacts.py[line:36] INFO 用户“testcdong01”登录后,断言页面关键字“退出”成功
+2019-02-19 17:33:10 CreateContacts.py[line:55] INFO **********开始添加联系人“太阳一”**********
+2019-02-19 17:33:15 CreateContacts.py[line:73] INFO 添加联系人“太阳一”成功
+2019-02-19 17:33:15 CreateContacts.py[line:77] INFO 联系人“太阳一”被忽略执行
+2019-02-19 17:33:16 CreateContacts.py[line:85] INFO 账号“testman1980”被忽略执行
